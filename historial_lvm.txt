@@ -35,7 +35,6 @@
    35  sudo fdisk -l
    36  ls -
    37  ls -l
-   38  git clone https://github.com/TU_USUARIO/TP2_Rao_Nicolas.git
    39  git clone https://github.com/NicolasAgustin03/TP2_AySO_Rao_Nicolas.git
    40  ls -l
    41  cd TP2_AySO_Rao_Nicolas
